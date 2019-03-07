@@ -1,0 +1,37 @@
+
+p{word-spacing:.15in; 
+padding:25px 50px 75px 100px;
+font-size:12pt;
+border-width:2px 3px 4px 5px;
+border-top-style:dotted;border-top-color:black;
+border-right-style:solid;border-right-color:pink;
+border-bottom-style:dotted;border-bottom-color:black;
+border-left-style:solid;border-left-color:pink;
+border-radius:5px;
+margin-top:100px;
+margin-bottom:100px;
+margin-left:80px;
+margin-right:150px;
+}
+
+<div>
+div.padd{padding: 50px 15px 20px; background-color:#322835;text-align:center;}
+li{display:inline;padding:20px; color:white;}
+li.block{display:block;padding:20px; color: white;}
+a:link{ background-color: yellow;
+
+}
+a.highlight:hover{
+color:yellow;
+}
+width:300px;
+border:25px solid green;
+padding:25px;
+margin:25px;
+</div>
+
+h1{
+color:maroon;
+margin-left:40px;
+}
+
